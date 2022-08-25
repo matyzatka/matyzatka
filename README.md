@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @matyzatka
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking forward to get my first job as an engineer
+- 👋 Hi, I’m Matouš.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking forward to get my first job as an Software Engineer/Developer.
 - 📫 How to reach me: matous.zatka@seznam.cz or +420 777 322 556
 
 <!---
